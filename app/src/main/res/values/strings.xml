@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">PetagramV2</string>
+    <string name="pnombre">PERRO</string>
+    <string name="mensaje">Click!</string>
+    <string name="menu_item">TOP 5</string>
+    <string name="lista">MASCOTAS</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="camera">Click</string>
+    <string name="about_title">LEONARDO TORREALBA</string>
+    <string name="about_information">Mi gran motivacion\nCaracas, Julio 2018</string>
+    <string name="hnombre">Nombre</string>
+    <string name="hemail">Email</string>
+    <string name="hmensaje">Mensaje</string>
+    <string name="enviar">Enviar Comentarios</string>
+    <string name="miperro">Sanson</string>
+
+</resources>

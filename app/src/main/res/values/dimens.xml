@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top">20sp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="nombre_perro">20sp</dimen>
+    <dimen name="espaciado_items">8dp</dimen>
+    <dimen name="about_title">30sp</dimen>
+    <dimen name="about_description">20sp</dimen>
+    <dimen name="lineas">10dp</dimen>
+    <dimen name="imagen_circular">150dp</dimen>
+    <dimen name="imagen_grid">100dp</dimen>
+</resources>
